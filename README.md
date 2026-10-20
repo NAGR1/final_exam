@@ -83,10 +83,4 @@ The system has 3 Teacher accounts and 3 Student accounts.
 3. Click Logout to end the login session.
 4. Protected backend operations reject unauthorized requests.
 
-## Deployment and Submission Links
 
-- **Backend GitHub:** [Add backend repository URL]
-- **Frontend GitHub:** [Add frontend repository URL]
-- **Backend Vercel:** [Add backend deployment URL]
-- **Frontend Vercel:** [Add frontend deployment URL]
-- **Screen Recording:** [Add recording URL]
